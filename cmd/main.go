@@ -9,6 +9,7 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
+
 	openai "github.com/sashabaranov/go-openai"
 )
 
